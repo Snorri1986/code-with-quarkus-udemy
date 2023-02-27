@@ -1,6 +1,6 @@
 package org.snorri1986.hibernate;
 
-import io.quarkus.hibernate.orm.panache.PanacheEntity;
+import io.quarkus.hibernate.reactive.panache.PanacheEntity;
 
 import javax.persistence.Cacheable;
 import javax.persistence.Column;
